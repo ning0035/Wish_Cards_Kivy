@@ -1,8 +1,6 @@
 """Hoverable Behaviour (changing when the mouse is on the widget by O. Poyen.
 License: LGPL
 """
-__author__ = 'Olivier POYEN'
-
 
 from kivy.properties import BooleanProperty, ObjectProperty
 from kivy.core.window import Window
